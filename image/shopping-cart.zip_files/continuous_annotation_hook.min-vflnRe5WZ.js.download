@@ -1,0 +1,2 @@
+define(["require","exports","tslib","react"],(function(t,e,n,o){"use strict";Object.defineProperty(e,"__esModule",{value:!0}),e.useContinuousAnnotation=void 0,o=n.__importStar(o);e.useContinuousAnnotation=function(){const[t,e]=o.default.useState(()=>null!==localStorage.getItem("has_seen_continuous_annotation_feature"));return[t,(0,o.useCallback)(()=>{e(!0),window.localStorage.setItem("has_seen_continuous_annotation_feature","true")},[])]}}));
+//# sourceMappingURL=continuous_annotation_hook.min.js-vfljiPNww.map

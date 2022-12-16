@@ -1,0 +1,2 @@
+define(["require","exports","css!typescript/libraries/file-viewer/src/preview_html/preview-html.module.out.css"],(function(e,t){"use strict";Object.defineProperty(t,"__esModule",{value:!0}),t.previewContent=t.app=void 0,t.app="_app_tljcl_1",t.previewContent="_previewContent_tljcl_5";t.default={app:"_app_tljcl_1",previewContent:"_previewContent_tljcl_5"}}));
+//# sourceMappingURL=preview-html.module.css.min.js-vfl8cNSTx.map
